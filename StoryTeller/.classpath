@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/priya/GitHubProjects/text-to-audio-using-java/StoryTeller/FreeTTSLib/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
